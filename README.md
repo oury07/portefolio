@@ -1,2 +1,2 @@
 # portefolio
-first try of creating a personnal portefolio
+first try of creating a personal portefolio
